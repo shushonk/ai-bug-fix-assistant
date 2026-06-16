@@ -1,0 +1,6 @@
+{
+  "name": "AI Bug Fix Assistant",
+  "description": "A production-grade debugging intelligence system that catches syntax, logic, API, database, and concurrency bugs, providing minimal safe fixes and step-by-step mental executions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
